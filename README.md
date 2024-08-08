@@ -1,2 +1,2 @@
 # takeatour
-Travel to different parts of the world
+Plan your vacation and travel to different parts of the world
